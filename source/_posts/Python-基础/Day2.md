@@ -2,9 +2,10 @@
 title: Day2 集合
 date: 2019-02-12 10:02:46
 categories:
-- Python 基础
+  - Python
+  - Python 基础
 tags:
-- Python
+  - python
 thumbnail: https://images.pexels.com/photos/1309017/pexels-photo-1309017.jpeg
 ---
 

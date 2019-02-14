@@ -3,9 +3,10 @@ layout: Python
 title: Day1 数据类型
 date: 2019-02-11 16:01:08
 categories:
-- Python 基础
+  - Python
+  - Python 基础
 tags:
-- Python
+  - python
 thumbnail: https://images.pexels.com/photos/268533/pexels-photo-268533.jpeg
 ---
 
