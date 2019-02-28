@@ -1,12 +1,12 @@
 ---
 layout: Python
-title: Day1 数据类型
+title: Python 基础
 date: 2019-02-11 16:01:08
 categories:
   - Python
   - Python 基础
 tags:
-  - python
+  - Python
 thumbnail: https://images.pexels.com/photos/268533/pexels-photo-268533.jpeg
 ---
 
@@ -22,7 +22,9 @@ Python 中有5中数据类型:
 字符串|zero 
 布尔|True/False
 空类型|None
-# 示例代码
+
+示例代码
+====
 ```python
 #!/usr/bin/env python3
 # -*- coding: UTF-8 -*-
